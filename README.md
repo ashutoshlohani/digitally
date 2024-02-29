@@ -1,4 +1,3 @@
-<div align="center">
 <h1> Digitaly - Digital Marketing Agency Landing Page Website.
 </h1>
 
